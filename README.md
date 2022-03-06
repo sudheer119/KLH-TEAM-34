@@ -2,7 +2,12 @@
 
 THE PROJECT IS AVAILABLE IN ABBRS FOLDER
 
-THE OUT IS GENERATED UISNG ML 
+THE OUT pUT IS GENERATED UISNG ML FROM THE MAN MADE DATA SET
+
+iNPUT Are given based on
+
+![image](https://user-images.githubusercontent.com/76642126/156935099-8bf44b1a-0cef-423c-8b3e-e85f29b22ca5.png)
+
 
 CASE-1
 
